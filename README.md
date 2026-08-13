@@ -13,24 +13,24 @@ This Tableau project was completed during a **Data Technician Bootcamp** and foc
 ## 📈 Dashboard Features
 The project includes a variety of visualisations and interactive elements:
 
-✅ **Bar Charts** – Compare sales across products, categories, and regions  
-✅ **Line Charts** – Track sales trends and performance over time  
-✅ **Pie Charts** – Display proportions and category breakdowns  
-✅ **Map Visualisations** – Explore geographical sales performance  
-✅ **Interactive Filters & Slicers** – Allow users to drill down into specific data  
-✅ **Calculated Fields** – Create custom KPIs and business metrics  
-✅ **Dashboard Actions** – Improve navigation and user experience  
+ **Bar Charts** – Compare sales across products, categories, and regions  
+ **Line Charts** – Track sales trends and performance over time  
+ **Pie Charts** – Display proportions and category breakdowns  
+ **Map Visualisations** – Explore geographical sales performance  
+ **Interactive Filters & Slicers** – Allow users to drill down into specific data  
+ **Calculated Fields** – Create custom KPIs and business metrics  
+ **Dashboard Actions** – Improve navigation and user experience  
 
 ## 🛠️ Skills Demonstrated
-- 📊 Tableau Dashboard Development
-- 🎨 Data Visualisation Best Practices
-- 🔍 Interactive Filtering and Slicing
-- 🧮 Calculated Fields and Custom Metrics
-- 📈 Retail and Sales Data Analysis
-- 🗺️ Geographic Mapping and Analysis
-- 📚 Data Storytelling
-- 🧹 Data Preparation and Cleaning
-- 🎯 KPI Design and Reporting
+-  Tableau Dashboard Development
+-  Data Visualisation Best Practices
+-  Interactive Filtering and Slicing
+-  Calculated Fields and Custom Metrics
+-  Retail and Sales Data Analysis
+-  Geographic Mapping and Analysis
+-  Data Storytelling
+-  Data Preparation and Cleaning
+-  KPI Design and Reporting
 
 ## 💡 Key Insights
 Through the use of interactive dashboards, users can:
@@ -45,9 +45,9 @@ Through the use of interactive dashboards, users can:
 A key focus of this project was **data storytelling**. Rather than simply presenting charts, the dashboard was designed to guide users through the data, highlighting important trends, opportunities, and areas requiring attention. Visual elements were carefully selected to make complex retail and sales data easy to understand and act upon.
 
 ## 🔧 Tools Used
-- 📊 Tableau Public / Tableau Desktop
-- 📑 Microsoft Excel
-- 📈 Retail & Sales Datasets
+-  Tableau Public / Tableau Desktop
+-  Microsoft Excel
+-  Retail & Sales Datasets
 
 ## 🎓 Learning Outcomes
 This project strengthened my ability to:
