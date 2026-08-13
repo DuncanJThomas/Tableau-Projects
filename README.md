@@ -21,6 +21,8 @@ The project includes a variety of visualisations and interactive elements:
  **Calculated Fields** – Create custom KPIs and business metrics  
  **Dashboard Actions** – Improve navigation and user experience  
 
+<img width="1450" height="800" alt="image" src="https://github.com/user-attachments/assets/bbdbdf00-b3a4-46f3-880c-fab84e3eb586" />
+
 ## 🛠️ Skills Demonstrated
 -  Tableau Dashboard Development
 -  Data Visualisation Best Practices
@@ -31,6 +33,8 @@ The project includes a variety of visualisations and interactive elements:
 -  Data Storytelling
 -  Data Preparation and Cleaning
 -  KPI Design and Reporting
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d8beaf71-390d-4e8a-8776-30a9de7a09f5" />
 
 ## 💡 Key Insights
 Through the use of interactive dashboards, users can:
